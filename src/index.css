@@ -275,6 +275,14 @@ body{
   opacity: 1;
 }
 
+.menu .content .button-filter button.active{
+  background-color: #EA6E0E;
+  color: #000000;
+  box-shadow: 0 2px 2px #c4c4c4;
+  border-radius: 20px;
+  opacity: 1;
+}
+
 .menu .content .button-filter button:focus{
   background-color: #EA6E0E;
   color: #000000;
