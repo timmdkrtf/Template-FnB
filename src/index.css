@@ -125,7 +125,7 @@ body{
   content: " ";
   width: 50px;
   height: 50px;
-  background-image: url('../src/assets/image/elemen/Group\ \(7\).png');
+  background-image: url('../src/assets/image/elemen/Group.png');
   background-repeat: no-repeat;
   position: absolute;
   top: -20px;
@@ -186,33 +186,7 @@ body{
   content: " ";
   width: 50px;
   height: 50px;
-  background-image: url('../src/assets/image/elemen/outline\ three.png');
-  background-repeat: no-repeat;
-  position: absolute;
-  bottom: -52px;
-  left: -22px;
-}
-.home .content-home .slide-card.dessert .text-left button{
-  position: relative;
-  display: inline-block;
-}
-
-.home .content-home .slide-card.dessert .text-left button::after{
-  content: " ";
-  width: 50px;
-  height: 50px;
-  background-image: url('../src/assets/image/elemen/arrow.png');
-  background-repeat: no-repeat;
-  position: absolute;
-  top: -40px;
-  right: -65px;
-}
-
-.home .content-home .slide-card.dessert .text-left button::before{
-  content: " ";
-  width: 50px;
-  height: 50px;
-  background-image: url('../src/assets/image/elemen/outline\ three.png');
+  background-image: url('../src/assets/image/elemen/outline-three.png');
   background-repeat: no-repeat;
   position: absolute;
   bottom: -52px;
