@@ -625,8 +625,8 @@ body{
 
   .home .content-home .slide-card.nasgor .image-right img{
     position: relative;
-    width: 110%;
-    right: -15px;
+    width: 115%;
+    right: 0px;
     margin-top: 50px;
   }
 
@@ -634,7 +634,7 @@ body{
     position: relative;
     width: 100%;
     right: 0;
-    margin-top: 70px;
+    margin-top: 45px;
   }
 
   .home .content-home .slide-card.dessert .text-left h1::after{
@@ -698,15 +698,15 @@ body{
 
   .home .content-home .slide-card.nasgor .image-right img{
     position: relative;
-    width: 105%;
-    right: -20px;
+    width: 115%;
+    right: 0px;
     margin-top: 50px;
   }
 
   .home .content-home .slide-card.dessert .image-right img{
     position: relative;
     width: 110%;
-    margin-top: 70px;
+    margin-top: 50px;
     margin-left: -10px;
   }
 
