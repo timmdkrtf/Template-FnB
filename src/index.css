@@ -230,7 +230,7 @@ body{
 
 /* menu */
 .menu{
-  padding: 100px 0 40px 0;
+  padding: 120px 0 40px 0;
 }
 
 .menu .title{
@@ -330,6 +330,11 @@ body{
 }
 
 /* portfolio */
+
+#portfolio .row{
+  padding-top: 110px !important;
+  padding-bottom: 50px !important;
+}
 
 .slider-for {
   width: 65%;

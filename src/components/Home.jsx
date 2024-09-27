@@ -40,7 +40,7 @@ function Home(){
         prevArrow: <SamplePrevArrow to="prev" />
       };
     return(
-        <div className="home">
+        <div className="home" id="home">
                 <div className="content-home">
                     <div className="container">
                         <Slider {...settings}>
